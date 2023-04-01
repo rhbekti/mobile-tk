@@ -1,2 +1,2 @@
-# praktikum pemrograman mobile kelas teknologi komputer
-praktikum pemrograman mobile kelas teknologi komputer
+# Praktikum Mobile Teknologi Komputer
+Modul ini diperuntukkan bagi yang sedang mempelajari materi Pemrograman Mobile. Materi dimulai dari pengenalan aplikasi, kemudian membuat aplikasi sederhana dan dilanjutkan dengan penggunaan komponen-komponen untuk melengkapi pembuatan aplikasi. Modul ini menggunakan Bahasa pemrograman Kotlin beserta kelengkapan lainnya dan menggunakan project yang dibangun dengan menggunakan Android Studio.
